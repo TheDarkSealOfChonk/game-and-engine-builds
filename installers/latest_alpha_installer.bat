@@ -3,4 +3,4 @@ powershell.exe -Command "Expand-Archive -Path 'latest_alpha.zip' -DestinationPat
 del "latest_alpha.zip"
 cd latest_alpha
 cd latest_alpha
-.\run
+.\"Egon Rise Of The Angels.exe"
