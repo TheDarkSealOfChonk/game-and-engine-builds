@@ -2,4 +2,4 @@ curl "https://raw.githubusercontent.com/TheDarkSealOfChonk/game-and-engine-build
 powershell.exe -Command "Expand-Archive -Path 'latest_alpha.zip' -DestinationPath 'latest_alpha'"
 del "latest_alpha.zip"
 cd latest_alpha
-.\"Egon Rise Of The Angels.exe"
+.\run
